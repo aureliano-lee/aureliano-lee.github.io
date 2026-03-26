@@ -2,93 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aureliano-lee.github.io/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aureliano-lee.github.io/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aureliano-lee.github.io/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/maya2025/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aureliano-lee.github.io/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aureliano-lee.github.io/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/zbrush2023/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aureliano-lee.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/p/car/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aureliano-lee.github.io/page/</loc>
+    <loc>http://localhost:1313/p/dagger/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E6%AD%A6%E5%99%A8/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E8%87%AA%E7%84%B6%E5%B1%9E%E6%80%A7/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aureliano-lee.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aureliano-lee.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://aureliano-lee.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/test/</loc>
   </url><url>
-    <loc>https://aureliano-lee.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://aureliano-lee.github.io/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/p/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</loc>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/tags/%D9%86%D8%B5/</loc>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/categories/%E3%83%86%E3%82%B9%E3%83%88/</loc>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/categories/%E6%B8%AC%E8%A9%A6/</loc>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/%E5%85%B3%E4%BA%8E/</loc>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/search/</loc>
-  </url><url>
-    <loc>https://aureliano-lee.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
+    <loc>http://localhost:1313/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</loc>
   </url>
 </urlset>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>武器 on Aureliano</title>
+        <link>http://localhost:1313/categories/%E6%AD%A6%E5%99%A8/</link>
+        <description>Recent content in 武器 on Aureliano</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Aureliano</copyright>
+        <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%AD%A6%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>石质匕首</title>
+        <link>http://localhost:1313/p/dagger/</link>
+        <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/dagger/</guid>
+        <description>&lt;img src="http://localhost:1313/p/dagger/dagger_ref.jpg" alt="Featured image of post 石质匕首" /&gt;&lt;h2 id=&#34;原图分析&#34;&gt;原图分析
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dagger/dagger_ref.jpg&#34;
+	width=&#34;2160&#34;
+	height=&#34;1199&#34;
+	srcset=&#34;http://localhost:1313/p/dagger/dagger_ref_hu_677fc2f7be6c5b32.jpg 480w, http://localhost:1313/p/dagger/dagger_ref_hu_15442b4ac10c49d5.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;武器原图&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;180&#34;
+		data-flex-basis=&#34;432px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;分析原图中武器的特征，推测其大概率是西方魔幻背景下，由自然祭司使用的匕首。刀身玉石材质，柄木质，上有红布缠绕，绿叶点缀，可分为四个部分制作。&lt;/p&gt;
+&lt;h2 id=&#34;中模定型&#34;&gt;中模定型
+&lt;/h2&gt;&lt;p&gt;因其武器结构相对简单，故而直接中模起形。&lt;/p&gt;
+  &lt;div style=&#34;display: flex; gap: 10px;&#34;&gt;
+    &lt;img src=&#34;blade.png&#34; style=&#34;width: 50%;&#34; /&gt;
+    &lt;img src=&#34;hilt.png&#34; style=&#34;width: 50%;&#34; /&gt;
+  &lt;/div&gt;  
+&lt;p&gt;刀片部分根据厚度不同分为刀刃、中部以及后部三个部分;柄部较为复杂可如图示进行拆分；&lt;br&gt;
+其他部分无特殊注意，正常制作即可。&lt;/p&gt;
+&lt;h2 id=&#34;局部细化&#34;&gt;局部细化
+&lt;/h2&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
